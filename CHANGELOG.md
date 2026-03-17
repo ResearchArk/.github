@@ -9,17 +9,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.2.0] - 2025-12-05
 
-### Added
-- add social preview image
-
-### Removed
-- Delete researchark-social-preview.png
+### Changed
+- Replaced the initial social preview image with an updated version reflecting current branding.
 
 ## [0.1.0] - 2025-12-04
 
 ### Added
-- add organization profile README
-- update README with branded assets and copy
+- Organisation profile README with an overview of the ResearchArk ecosystem, branded assets, and canonical copy for the GitHub organisation page.
 
 
 [unreleased]: https://github.com/ResearchArk/.github/compare/v0.2.0...HEAD
